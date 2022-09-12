@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVQabHTgXDCkBHtvFbZOxzzwQHDAT5Ko0tA7thN0K3MHIQyMP35wD1FTShKm4pl+fb0Fb2S++KBsfnMLdWzXJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shuayb Popoola\\source\\repos\\outdatedpackages-core\\outdatedpackages-core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shuayb Popoola\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
